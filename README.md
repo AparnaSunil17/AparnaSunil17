@@ -1,16 +1,13 @@
-
 <h1 align="center">Hi 👋, I'm Aparna Sunil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aparnasunil17&label=Profile%20views&color=0e75b6&style=flat" alt="aparnasunil17" /> </p>
 
 - 🔭 I’m currently working on **Text Summarization and question generation using NLP**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **NLP**
 
-- 💬 Ask me about **C,Flutter,Java**
+- 💬 Ask me about **C,Flutter,Java,Python**
 
 - 📫 How to reach me **aparnasunil00@gmail.com**
 
