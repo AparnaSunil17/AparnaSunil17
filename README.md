@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aparnasunil17&label=Profile%20views&color=0e75b6&style=flat" alt="aparnasunil17" /> </p>
 
-- 🔭 I’m currently working on **Text Summarization and question generation using NLP**
+- 🔭 I’m currently working on **Restaurant Inventory Management using AI**
 
 - 🌱 I’m currently learning **NLP**
 
